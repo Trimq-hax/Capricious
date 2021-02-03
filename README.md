@@ -8,7 +8,7 @@ What I (Personally) want in the software -
 2. A Fast math calculator like https://www.mathway.com/Algebra
 3. Discord bot to go with it.
 4. WHATEVER YOU WANT! 
-
+5. A ui!
 
 So as you can tell its got alot of math and school related things, but as a teen thats the first thing that came to mind! so you guys add whatever you want within reason.
 
