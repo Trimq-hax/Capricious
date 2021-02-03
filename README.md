@@ -11,5 +11,4 @@ What I (Personally) want in the software -
 5. A ui!
 
 So as you can tell its got alot of math and school related things, but as a teen thats the first thing that came to mind! so you guys add whatever you want within reason.
-
-![repository-open-graph-template](https://user-images.githubusercontent.com/78451730/106678279-3a5ed200-656f-11eb-86a7-0708f9ded72b.png)
+![repository-open-graph-template](https://user-images.githubusercontent.com/78451730/106762195-74b98500-65ea-11eb-9794-ac8c1c62a9ff.jpg)
