@@ -1,4 +1,4 @@
-Caprious 1.0:
+Caprious 1.0
 
 Hello! This is my personal repository where anyone can add whatever they want, the goal is to create an all purpose software and can do a bunch of random useful tasks.
 
