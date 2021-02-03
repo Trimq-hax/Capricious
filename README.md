@@ -2,7 +2,7 @@ Caprious 1.0
 
 Hello! This is my personal repository where anyone can add whatever they want, the goal is to create an all purpose software and can do a bunch of random useful tasks.
 
-What i want in the software - 
+What I (Personally) want in the software - 
 
 1. Calculator
 2. A Fast math calculator like https://www.mathway.com/Algebra
